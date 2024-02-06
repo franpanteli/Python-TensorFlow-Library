@@ -1,8 +1,8 @@
 # Python-Tensorflow-Library
 
-## Machine Learning with Python Certification Notes
+## Machine Learning with Python Certification Description
 
-This repository is for the first half of my notes on the content for the "Machine Learning with Python" certification course by freeCodeCamp. This is a library of 32 PDF files covering the fundamental aspects of using TensorFlow in Python. This library of my notes covers essential topics on machine learning, neural networks, natural language processing, and reinforcement learning using this (the TensorFlow) framework and is intended for use as a reference resource.
+This repository is for the first half of my notes on the content for the "Machine Learning with Python" certification course by freeCodeCamp. This is a library of 32 PDF files covering the fundamental aspects of using TensorFlow in Python. This library of my notes covers essential topics on machine learning, neural networks, natural language processing, and reinforcement learning using this (the TensorFlow) framework and is intended for use as a reference resource. Each PDF corresponds to a specific video lecture in the TensorFlow section of the course, offering detailed insights and explanations.
 
 ### Course Overview
 - **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
@@ -44,8 +44,3 @@ This repository is for the first half of my notes on the content for the "Machin
 30. [Reinforcement Learning With Q-Learning_ Part 2](./30%20of%2032%20Reinforcement%20Learning%20With%20Q-Learning_%20Part%202.pdf)
 31. [Reinforcement Learning With Q-Learning_ Part 2](./31%20of%2032%20Reinforcement%20Learning%20With%20Q-Learning_%20Part%202.pdf)
 32. [Conclusion](./32%20of%2032%20Conclusion.pdf)
-
-### Description
-This is my personal repository as a student of the "Machine Learning with Python" certification course by freeCodeCamp. The notes provide a comprehensive resource for understanding and implementing machine learning concepts using TensorFlow. Each PDF corresponds to a specific video lecture in the TensorFlow section of the course, offering detailed insights and explanations.
-
-Feel free to explore the content, use it as a reference, and enhance your understanding of machine learning with Python and TensorFlow.
