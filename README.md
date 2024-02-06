@@ -2,7 +2,7 @@
 
 ## Machine Learning with Python Certification Description
 
-This repository is for the first half of my notes on the content for the "Machine Learning with Python" certification course by freeCodeCamp. This is a library of 32 PDF files covering the fundamental aspects of using TensorFlow in Python. This library of my notes covers essential topics on machine learning, neural networks, natural language processing, and reinforcement learning using this (the TensorFlow) framework and is intended for use as a reference resource. Each PDF corresponds to a specific video lecture in the TensorFlow section of the course, offering detailed insights and explanations.
+This repository contains a libary of my notes on the first half of the content on the "Machine Learning with Python" certification course by freeCodeCamp, which I created as part of self-studying in Python and am sharing here for use as a reference resource. The first half of the content for this course covers TensorFlow with Python. This is an extensive library of my notes on this section of the course, covering the fundamental aspects of TensorFlow with Python. This covers essential topics on machine learning, neural networks, natural language processing, and reinforcement learning using this (theTensorFlow) framework. This consists of 32 PDFs below, each corresponding to a specific video lecture in this section of the course. 
 
 ### Course Overview
 - **Course URL:** [Machine Learning with Python Certification](https://www.freecodecamp.org/learn/machine-learning-with-python/#tensorflow)
