@@ -42,3 +42,8 @@ This repository contains a library of my notes on the first half of the content 
 30. [Reinforcement Learning With Q-Learning_ Part 2](./30%20of%2032%20Reinforcement%20Learning%20With%20Q-Learning_%20Part%202.pdf)
 31. [Reinforcement Learning With Q-Learning_ Part 2](./31%20of%2032%20Reinforcement%20Learning%20With%20Q-Learning_%20Part%202.pdf)
 32. [Conclusion](./32%20of%2032%20Conclusion.pdf)
+
+### To Clone This Repository
+```
+git clone https://github.com/franpanteli/CSS-HTML-Sass-Bootcamp-Library.git
+```
